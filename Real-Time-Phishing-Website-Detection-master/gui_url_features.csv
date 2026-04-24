@@ -1,0 +1,2 @@
+URL,rank_host,rank_country,host,path,Length_of_url,Length_of_host,No_of_dots,avg_token_length,token_count,largest_token,avg_domain_token_length,domain_token_count,largest_domain,avg_path_token,path_token_count,largest_path,sec_sen_word_cnt,IPaddress_presence,ASNno,safebrowsing
+https://www.google.com.br,-1,-1,www.google.com.br,,25,17,3,3.8,5,6,3.5,4,6,0,0,0,0,0,-1,-1
